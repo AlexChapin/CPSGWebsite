@@ -3,7 +3,7 @@
 /* General instructions for font, color, and background image */
 body {
 	font-family: Ariel, Futura, Verdana;
-	color: #b8c500;
+	color: #9fa400;
 	margin: 10px;
 	background: black url(//terpconnect.umd.edu/~achapin1/sgc/black.jpg) repeat top right;
 }
@@ -29,7 +29,7 @@ h2 {
 
 h6 {
 	font-family: Skia, Futura, Verdana, Ariel;
-	color: #b8c500;
+	color: #9fa400;
 	font-size: 0.75em;
 	margin: 0;
 	padding: 0.1em;
@@ -88,5 +88,5 @@ a:visited {
 
 
 #footer img {
-	padding: 10px;
+	padding: 50px;
 }
