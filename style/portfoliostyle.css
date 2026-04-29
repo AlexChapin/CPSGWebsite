@@ -3,7 +3,7 @@
 /* General instructions for font, color, and background image */
 body {
 	font-family: Ariel, Futura, Verdana;
-	color: #9fa400;
+	color: #e1e800;
 	margin: 10px;
 	background: black url(//terpconnect.umd.edu/~achapin1/sgc/black.jpg) repeat top right;
 }
